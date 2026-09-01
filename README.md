@@ -75,4 +75,4 @@ Because the raw data stored retail basket products inside an array represented a
 3. **Promotion Adjustments:** Discontinue low-performing promotion types among loyalty tiers to preserve margins.
 
 ---
-**Contact:** [Your Name] | [Your LinkedIn URL](REPLACE_WITH_YOUR_LINKEDIN_URL)
+**Contact:** Himansu Desai | LinkedIn URL: https://www.linkedin.com/in/himansu-desai/                                                        
